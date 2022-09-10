@@ -40,6 +40,7 @@ const menuItem = `
    <h5>Beef Sauce</h5>
     <p class="card-text">₦2,500.00/plate</p>
 </div>
+</div>
 
 <div class="card m-2" style="width: 30rem;">
   <img class="card-img-top" src="imgs/fried_rice_asun.jpg" alt="Fried Rice">
